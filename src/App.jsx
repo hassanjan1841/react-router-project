@@ -1,8 +1,7 @@
 function App() {
   return (
     <>
-      <p className="bg-black">gg</p>
-      <h1 className="text-center text-3xl">Hello</h1>
+      <h1 className="text-5xl text-center">H</h1>
     </>
   );
 }
